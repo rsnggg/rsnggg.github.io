@@ -11,13 +11,16 @@ body{
     background-color: #000000!important;
 }
 
+.navbar-collapse{
+    flex-grow: 0!important;
+}
+
 #introduce{
-    background: url(../img/intro3.jpg) no-repeat center top;
+    background: url(../img/intro-pink.jpg) no-repeat center top ;
     margin-top: -70px;
-    padding-top: 190px;
+    padding-top: 270px;
     text-align:center;
-    min-height: 500px;
-    width: 100%;
+    min-height: 670px;
     color: white;
 }
 
