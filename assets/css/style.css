@@ -1,9 +1,30 @@
+html{
+    background-color: #000000;
+}
+
+body{
+    background-color: #000000!important;
+    color: white!important;
+}
+
+.bg-black{
+    background-color: #000000!important;
+}
+
 #introduce{
-    background: url(../img/intro.jpg) no-repeat center top fixed;
+    background: url(../img/intro3.jpg) no-repeat center top;
     margin-top: -70px;
-    padding-top: 220px;
+    padding-top: 190px;
     text-align:center;
     min-height: 500px;
     width: 100%;
     color: white;
+}
+
+#about h4{
+     color: rgba(255,255,255,.5);
+}
+
+#about i{
+    color: gray;
 }
