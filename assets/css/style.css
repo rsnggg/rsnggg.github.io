@@ -22,6 +22,7 @@ body{
     text-align:center;
     min-height: 670px;
     color: white;
+    text-transform: uppercase;
 }
 
 #about h4{
